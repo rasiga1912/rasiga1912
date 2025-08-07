@@ -9,11 +9,11 @@
 ### 🌸 Flower Store Website
 A responsive e-commerce-like demo built with HTML, CSS, Bootstrap & JavaScript.  
 Includes cart & wishlist functionality.  
-🔗 [Live Demo](https://rasigahr.github.io/flower-store)
+🔗 [Live Demo](https://rasiga1912.github.io/flowerstore)
 
 ### 🎓 PG Life Frontend Web App
 Frontend interface for hostel/PG management (student details, rent tracking, reports) using modern JavaScript and Bootstrap.  
-🔗 [View Repo](https://github.com/rasiga1912/pg-life-frontend)
+🔗  [Visit PGLife](https://rasiga1912.github.io/PGLife/)
 
 ### 📚 Bookstore Management with Java & SQL
 A fully functional bookstore management system using Java, JDBC, and MySQL.  
