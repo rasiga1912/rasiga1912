@@ -18,7 +18,6 @@ Frontend interface for hostel/PG management (student details, rent tracking, rep
 ### 📚 Bookstore Management with Java & SQL
 A fully functional bookstore management system using Java, JDBC, and MySQL.  
 Includes CRUD operations, data validation, and user management.  
-🔗 [View Repo](https://github.com/rasiga1912/bookstore-management)
 
 ---
 
@@ -26,7 +25,7 @@ Includes CRUD operations, data validation, and user management.
 
 | Languages      | Web & Frontend                   | Databases        | Other Tools         |
 |----------------|----------------------------------|------------------|----------------------|
-| Java, C/C++    | HTML, CSS, Bootstrap, JavaScript | SQL, MySQL       | Git, GitHub          |
+| Java, C/C++    | HTML, CSS, Bootstrap, JavaScript | SQL, MySQL       | GitHub          |
 
 ---
 
