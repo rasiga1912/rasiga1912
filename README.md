@@ -21,7 +21,7 @@
 - Applied **SEO best practices**, including meta tags, internal linking, and keyword-focused content.  
 - Enhanced **UI/UX** to improve visitor experience.  
 - **Technologies:** HTML, CSS, JavaScript, Bootstrap, SEO Optimization.
-- - 📊 [Visit](https://rasiga1912.github.io/PGLife/)
+- 📊 [Visit](https://rasiga1912.github.io/PGLife/)
 
 ---
 
