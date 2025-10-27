@@ -1,38 +1,52 @@
 
 <h1 align="center">Hi 👋, I'm Rasiga H R</h1>
-<p align="center">🎓 B.Tech Biotechnology | JAVA, SQL,MySQL,C/C++, HTML/CSS/BOOTSTRAP/JS | Enthusiast in Software and Frontend Development & Computational Drug Discovery</p>
+<p align="center">🎓 B.Tech Biotechnology | SEO Optimization (On-Page & Off-Page), GA4, Google Search Console, Ahrefs | Frontend Development (HTML, CSS, JavaScript, Bootstrap) | Digital Marketing & Analytics Enthusiast</p>
+
 
 ---
 
 ## 🛠️ Projects and Work
 
-### 🌸 Flower Store Website
-A responsive e-commerce-like demo built with HTML, CSS, Bootstrap & JavaScript.  
-Includes cart & wishlist functionality.  
-🔗 [Live Demo](https://rasiga1912.github.io/flowerstore)
+### 1️⃣ [Floral Store – Frontend Website & SEO Project](#)  
+- Developed a **responsive e-commerce frontend** using HTML, CSS, and JavaScript.  
+- Implemented SEO optimization including **keyword research, on-page & off-page SEO**, link building, and technical SEO.  
+- Monitored site performance using **Google Search Console** and **Ahrefs**, and tracked user behavior via **GA4**.  
+- Optimized for **speed, usability, and visibility**.  
+- 📊 [View SEO Audit Report](#)  
 
-### 🎓 PG Life Frontend Web App
-Frontend interface for hostel/PG management (student details, rent tracking, reports) using modern JavaScript and Bootstrap.  
-🔗  [Visit PGLife](https://rasiga1912.github.io/PGLife/)
+---
 
-### 📚 Bookstore Management with Java & SQL
-A fully functional bookstore management system using Java, JDBC, and MySQL.  
-Includes CRUD operations, data validation, and user management.  
+### 2️⃣ [PG LIFE – SEO & Frontend Web Project](#)  
+- Built a **responsive frontend** using HTML, CSS, and JavaScript with seamless navigation.  
+- Applied **SEO best practices**, including meta tags, internal linking, and keyword-focused content.  
+- Enhanced **UI/UX** to improve visitor experience.  
+- **Technologies:** HTML, CSS, JavaScript, Bootstrap, SEO Optimization.  
+
+---
+
+### 3️⃣ [SEO Audit Report — Case Study](#)  
+- Conducted a **complete SEO audit** using **Ahrefs, GSC, and GA4** for a demo website.  
+- Identified and fixed **technical SEO issues** like crawl errors and broken links.  
+- Analyzed **backlink profile, keyword performance**, and **site health score**.  
+- Compiled all findings and **recommendations into a detailed audit report** for tracking progress.  
 
 ---
 
 ## 🖥️ Tech Stack & Tools
 
-| Languages      | Web & Frontend                   | Databases        | Other Tools         |
-|----------------|----------------------------------|------------------|----------------------|
-| Java, C/C++    | HTML, CSS, Bootstrap, JavaScript | SQL, MySQL       | GitHub          |
+| SEO & Digital Marketing                     | Analytics & Tools                          | Web & Frontend Development              | Programming & Databases   | Productivity & Soft Skills         |
+|---------------------------------------------|--------------------------------------------|------------------------------------------|----------------------------|------------------------------------|
+| On-page & Off-page SEO, Keyword Research, Link Building, Content Optimization | Google Analytics 4 (GA4), Google Search Console, Ahrefs, Google Keyword Planner | HTML5, CSS3, JavaScript, Bootstrap, WordPress | Java, SQL, MySQL | MS Office (Word, Excel, PowerPoint), Communication, Research |
+
 
 ---
 
 ## 🎯 What I’m Interested In
-- Building responsive and user-friendly frontend applications  
-- Backend programming with Java and SQL-based applications  
-- Applying biotechnology knowledge in computational tools and design
+- Optimizing websites through SEO strategies, analytics insights, and content performance tracking  
+- Designing responsive, user-focused frontend websites with modern web technologies  
+- Exploring the intersection of creativity and data through digital marketing and web performance  
+- Continuously learning tools like GA4, GSC, and Ahrefs to drive growth and visibility  
+
 
 ---
 
