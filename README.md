@@ -54,8 +54,8 @@
 
 | Platform   | Link                                      |
 |------------|-------------------------------------------|
-| LinkedIn   | [linkedin.com/in/rasiga-hr](https://linkedin.com/in/rasigahr) |
-| Email      | rasiga.hr@example.com                    |
+| LinkedIn   | [linkedin.com/in/rasigahr](https://linkedin.com/in/rasigahr) |
+| Email      | rasigahr@gmail.com                    |
 
 
 ---
