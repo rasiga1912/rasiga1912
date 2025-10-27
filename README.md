@@ -12,7 +12,7 @@
 - Implemented SEO optimization including **keyword research, on-page & off-page SEO**, link building, and technical SEO.  
 - Monitored site performance using **Google Search Console** and **Ahrefs**, and tracked user behavior via **GA4**.  
 - Optimized for **speed, usability, and visibility**.  
-- 📊 [View SEO Audit Report](#)  
+- 📊 [Live demo](https://rasiga1912.github.io/flowerstore/)  
 
 ---
 
@@ -20,7 +20,8 @@
 - Built a **responsive frontend** using HTML, CSS, and JavaScript with seamless navigation.  
 - Applied **SEO best practices**, including meta tags, internal linking, and keyword-focused content.  
 - Enhanced **UI/UX** to improve visitor experience.  
-- **Technologies:** HTML, CSS, JavaScript, Bootstrap, SEO Optimization.  
+- **Technologies:** HTML, CSS, JavaScript, Bootstrap, SEO Optimization.
+- - 📊 [Visit](https://rasiga1912.github.io/PGLife/)
 
 ---
 
@@ -28,7 +29,8 @@
 - Conducted a **complete SEO audit** using **Ahrefs, GSC, and GA4** for a demo website.  
 - Identified and fixed **technical SEO issues** like crawl errors and broken links.  
 - Analyzed **backlink profile, keyword performance**, and **site health score**.  
-- Compiled all findings and **recommendations into a detailed audit report** for tracking progress.  
+- Compiled all findings and **recommendations into a detailed audit report** for tracking progress.
+- [View SEO Audit Report](https://drive.google.com/file/d/1aECLeEaWpgngg-ZY7dVRyknnRiyiB9RW/view?usp=drive_link)
 
 ---
 
